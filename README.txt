@@ -10,7 +10,7 @@ There are 2 ways install SyntaxHighlighter plugin for Mango:
 1) The recommended way is to use Mango's auto-install feature. At the top of the "Plugins"
 page in the admin, paste this URL where it says "URL of Plugin to Download":
 
-  http://mangoblog-extensions.googlecode.com/files/syntaxhighlighter_plugin.zip
+  https://github.com/downloads/tony-garcia/SyntaxHighlighter-Mango-Plugin/syntaxhighlighter-mango-plugin.zip
   
  Then click on "Download Plugin"
 
